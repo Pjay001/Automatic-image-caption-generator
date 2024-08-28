@@ -8,6 +8,12 @@ This repository contains code for an automatic image caption generator using dee
 - Train a model for generating captions
 - Real-time captioning for webcam or video files
 
+## Results
+
+![Screenshot (15)](https://github.com/user-attachments/assets/c2d8923b-0437-49fc-92ca-1fdff95d2abc)
+
+![Screenshot (16)](https://github.com/user-attachments/assets/fecbcf0f-cbf1-4c1b-b39d-adc98c1cf209)
+
 ## Contributions
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
